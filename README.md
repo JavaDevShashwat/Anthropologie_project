@@ -39,6 +39,9 @@ Product Section (Women Accessories)
 
 ![image](https://user-images.githubusercontent.com/62950509/191042841-a585fa80-a181-4440-89c2-e9c1cef2aa4b.png)
 
+
+Product Section (Beauty and Wellness)
+
 ![image](https://user-images.githubusercontent.com/62950509/191042990-472f25a0-fe2d-4fcc-ad90-b6c247fa10c9.png)
 
 Basket.
