@@ -3,6 +3,8 @@
 In construct 1st week with Masai School we were randomly alloted in a team of 5 and give a website to clone. The website name is ANTHROPOLOGIE. 
 We were given a week of time to completely clone the website using HTML, CSS, Vanilla Script.
 
+[Live site on Netlify](https://fascinating-cactus-6f383e.netlify.app/)
+
 My group members name :
 1) Shashwat Srivastava 
 2) Falgun Bokde
